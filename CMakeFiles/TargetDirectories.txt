@@ -1,0 +1,4 @@
+/home/anonny/projects/fun/cpp_wserv/serverM/CMakeFiles/edit_cache.dir
+/home/anonny/projects/fun/cpp_wserv/serverM/CMakeFiles/server.dir
+/home/anonny/projects/fun/cpp_wserv/serverM/CMakeFiles/rebuild_cache.dir
+/home/anonny/projects/fun/cpp_wserv/serverM/CMakeFiles/jsoncpp.dir
